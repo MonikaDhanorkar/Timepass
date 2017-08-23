@@ -5,6 +5,7 @@ public class Demo {
            
            char arr[] = {'a','b','c','d'};
            System.out.println(arr[3]); 
+           System.out.println("hello World");
            System.out.println(arr[78]);
       
 	}
